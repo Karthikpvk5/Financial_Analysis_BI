@@ -50,9 +50,9 @@ Purpose: Allows users to analyze profit trends over time dynamically.
 Additional Features & Enhancements
 
 This Power BI dashboard enables financial teams to:
-✔️ Identify high-revenue regions and underperforming areas.
-✔️ Analyze product-wise profit trends to optimize business strategies.
-✔️ Filter data dynamically to assess time-based financial performance.
+1) Identify high-revenue regions and underperforming areas.
+2) Analyze product-wise profit trends to optimize business strategies.
+3) Filter data dynamically to assess time-based financial performance.
 
 Outcome: Data-driven decision-making for improved financial performance.
 
@@ -61,9 +61,9 @@ Project Files
  Dataset (Excel/CSV) – Raw financial data for analysis.
 
 Future Enhancements
-🔹 Integration with Live Data Sources (SQL, APIs) for real-time insights.
-🔹 Advanced Predictive Analysis using machine learning models.
-🔹 Additional Visualizations (Heatmaps, Line Charts for trend analysis).
+1) Integration with Live Data Sources (SQL, APIs) for real-time insights.
+2) Advanced Predictive Analysis using machine learning models.
+3) Additional Visualizations (Heatmaps, Line Charts for trend analysis).
 
 Technologies Used
 Power BI – Data visualization & dashboard creation
